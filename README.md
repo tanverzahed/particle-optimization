@@ -1,3 +1,6 @@
+Experimentation with a particle simulation and different optimization methods (including OpenMP and MPI).
+
+---
 Serial implementation:
 <br/>
 
